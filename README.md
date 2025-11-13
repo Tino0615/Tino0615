@@ -1,5 +1,14 @@
-## Hi there 👋
-
+## Hi 我叫火廷睿 👋
+目前就讀於中國科技大學 資工系三年級A班
+來自新北市淡水區
+學號1121462017
+## 關於我
+目前我正在學習:
+資料分析與 AI 模型應用 
+pythont設計
+資訊安全
+## 目前要做的專題
+將RAG技術運用於教學
 <!--
 **Tino0615/Tino0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
